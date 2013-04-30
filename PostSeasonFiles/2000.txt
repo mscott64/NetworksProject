@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Dolphins	23	Colts	17	34
+Saints	31	Rams	28	56
+Ravens	21	Broncos	3	6
+Eagles	21	Buccaneers	3	6
+Vikings	34	Saints	16	32
+Raiders	27	Dolphins	0	0
+Ravens	24	Titans	10	20
+Giants	20	Eagles	10	20
+Giants	41	Vikings	0	0
+Ravens	16	Raiders	3	6
+Ravens	34	Giants	7	14

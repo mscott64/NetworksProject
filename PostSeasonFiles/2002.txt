@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Jets	41	Colts	0	0
+Falcons	27	Packers	7	14
+Steelers	36	Browns	33	66
+49ers	39	Giants	38	76
+Titans	34	Steelers	31	62
+Eagles	20	Falcons	6	12
+Buccaneers	31	49ers	6	12
+Raiders	30	Jets	10	20
+Buccaneers	27	Eagles	10	20
+Raiders	41	Titans	24	48
+Buccaneers	48	Raiders	21	42

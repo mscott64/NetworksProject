@@ -1,0 +1,165 @@
+Teams: 33
+Saints
+Ravens
+Titans
+Panthers
+Giants
+Rams
+Vikings
+Buccaneers
+Patriots
+Steelers
+Cardinals
+Jaguars
+Bengals
+Oilers
+Chargers
+Falcons
+Jets
+Eagles
+Browns
+Cowboys
+Bills
+Lions
+Colts
+Texans
+Raiders
+Chiefs
+Redskins
+Broncos
+Dolphins
+Seahawks
+49ers
+Packers
+Bears
+
+Matchups: 129
+Vikings Cowboys 20
+Patriots Dolphins 6
+Packers Panthers 26
+49ers Bears 30
+Chiefs Oilers 40
+Titans Bills 32
+Patriots Raiders 26
+Dolphins Seahawks 34
+Buccaneers Eagles 20
+Dolphins Chargers 0
+Chargers Chiefs 0
+Broncos Falcons 38
+Packers Buccaneers 14
+Rams Vikings 74
+Rams Eagles 48
+Vikings Packers 34
+Broncos Packers 48
+Eagles Saints 40
+Steelers Jets 34
+Cardinals Cowboys 14
+Chargers Steelers 26
+Packers Lions 36
+Buccaneers Raiders 42
+Broncos Patriots 26
+Dolphins Bills 34
+Ravens Giants 14
+Packers 49ers 28
+Titans Steelers 62
+Broncos Chiefs 20
+Steelers Bengals 34
+Redskins Lions 26
+Steelers Ravens 20
+Chiefs Steelers 48
+Falcons Rams 34
+Panthers Eagles 6
+49ers Giants 41
+Packers Patriots 42
+Cowboys 49ers 41
+Seahawks Redskins 20
+Bills Oilers 76
+Eagles Falcons 16
+Patriots Colts 17
+Colts Chiefs 38
+Bears Vikings 36
+Titans Jaguars 28
+Panthers Bears 42
+Vikings Giants 44
+Steelers Broncos 34
+Cowboys Eagles 21
+Titans Ravens 34
+Panthers Cowboys 27
+49ers Vikings 44
+Browns Patriots 26
+Packers Falcons 40
+Chargers Dolphins 42
+Eagles Buccaneers 12
+Redskins Vikings 14
+Eagles Vikings 28
+Colts Broncos 34
+Rams Seahawks 40
+Rams Titans 32
+Ravens Broncos 6
+Packers Seahawks 54
+Jaguars Broncos 54
+Buccaneers Lions 20
+Cowboys Packers 35
+Jaguars Patriots 20
+Falcons Packers 14
+Jaguars Dolphins 14
+Rams Buccaneers 12
+Ravens Raiders 6
+Jets Jaguars 48
+Patriots Eagles 42
+Jets Chargers 34
+Patriots Titans 28
+Patriots Rams 34
+Eagles Bears 38
+Vikings Saints 32
+Steelers Colts 32
+Cowboys Bills 30
+Bills Raiders 46
+Raiders Broncos 48
+49ers Cowboys 56
+Raiders Jets 34
+Seahawks Panthers 28
+Patriots Jaguars 9
+Colts Chargers 40
+Patriots Steelers 31
+Ravens Dolphins 6
+Steelers Seahawks 20
+49ers Eagles 0
+Redskins Buccaneers 20
+49ers Redskins 26
+Dolphins Colts 34
+49ers Chargers 52
+Vikings Cardinals 42
+Steelers Browns 42
+Steelers Patriots 12
+Bills Dolphins 32
+Jaguars Bills 54
+Panthers Rams 46
+Buccaneers 49ers 12
+Cowboys Steelers 34
+Saints Rams 56
+Eagles Packers 34
+Raiders Dolphins 0
+Broncos Dolphins 6
+49ers Packers 54
+Broncos Jaguars 34
+Steelers Bills 42
+Eagles Lions 74
+Giants Eagles 20
+Titans Colts 32
+Rams Packers 34
+Giants Vikings 10
+Broncos Jets 20
+Buccaneers Redskins 26
+Bills Chiefs 26
+Falcons Vikings 54
+Patriots Panthers 58
+Panthers Giants 0
+Dolphins Chiefs 34
+Raiders Titans 48
+Broncos Steelers 42
+Jets Colts 0
+Cowboys Vikings 30
+Ravens Titans 20
+Bills Steelers 6
+Falcons 49ers 36

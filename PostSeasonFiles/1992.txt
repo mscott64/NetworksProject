@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Redskins	24	Vikings	7	14
+Chargers	17	Chiefs	0	0
+Bills	41	Oilers	38	76
+Eagles	36	Saints	20	40
+Bills	24	Steelers	3	6
+49ers	20	Redskins	13	26
+Cowboys	34	Eagles	10	20
+Dolphins	31	Chargers	0	0
+Cowboys	30	49ers	20	40
+Bills	29	Dolphins	10	20
+Cowboys	52	Bills	17	34

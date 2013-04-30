@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Packers	28	Lions	24	48
+Chiefs	27	Steelers	24	48
+Giants	17	Vikings	10	20
+Raiders	42	Broncos	24	48
+49ers	44	Giants	3	6
+Bills	29	Raiders	23	46
+Cowboys	27	Packers	17	34
+Chiefs	28	Oilers	20	40
+Bills	30	Chiefs	13	26
+Cowboys	38	49ers	21	42
+Cowboys	30	Bills	13	26

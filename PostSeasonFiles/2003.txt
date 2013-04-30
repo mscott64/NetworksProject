@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Titans	20	Ravens	17	34
+Panthers	29	Cowboys	10	20
+Packers	33	Seahawks	27	54
+Colts	41	Broncos	10	20
+Panthers	29	Rams	23	46
+Patriots	17	Titans	14	28
+Colts	38	Chiefs	31	62
+Eagles	20	Packers	17	34
+Patriots	24	Colts	14	28
+Panthers	14	Eagles	3	6
+Patriots	32	Panthers	29	58

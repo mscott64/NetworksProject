@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Colts	23	Chiefs	8	16
+Seahawks	21	Cowboys	20	40
+Patriots	37	Jets	16	32
+Eagles	23	Giants	20	40
+Colts	15	Ravens	6	12
+Saints	27	Eagles	24	48
+Bears	27	Seahawks	24	48
+Patriots	24	Chargers	21	42
+Bears	39	Saints	14	28
+Colts	38	Patriots	34	68
+Colts	29	Bears	17	34

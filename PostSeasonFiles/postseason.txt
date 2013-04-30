@@ -1,0 +1,46 @@
+Teams: 32
+Rams
+Dolphins
+Chiefs
+Saints
+Cowboys
+Raiders
+Chargers
+Falcons
+Giants
+Patriots
+Ravens
+Jets
+Bills
+Seahawks
+Eagles
+Browns
+Redskins
+Lions
+Texans
+49ers
+Steelers
+Titans
+Colts
+Broncos
+Buccaneers
+Bears
+Bengals
+Packers
+Vikings
+Panthers
+Cardinals
+Jaguars
+
+Matchups: 11
+Seahawks vs Panthers 1
+Steelers vs Broncos 1
+Panthers vs Bears 1
+Seahawks vs Redskins 1
+Panthers vs Giants 1
+Steelers vs Bengals 1
+Steelers vs Colts 1
+Broncos vs Patriots 1
+Redskins vs Buccaneers 1
+Steelers vs Seahawks 1
+Patriots vs Jaguars 1

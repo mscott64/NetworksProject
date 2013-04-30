@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Rams	27	Seahawks	20	40
+Jets	20	Chargers	17	34
+Colts	49	Broncos	24	48
+Vikings	31	Packers	17	34
+Steelers	20	Jets	17	34
+Falcons	47	Rams	17	34
+Eagles	27	Vikings	14	28
+Patriots	20	Colts	3	6
+Eagles	27	Falcons	10	20
+Patriots	41	Steelers	27	54
+Patriots	24	Eagles	21	42

@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Bills	37	Dolphins	22	44
+Eagles	58	Lions	37	74
+Packers	37	Falcons	20	40
+Colts	35	Chargers	20	40
+Steelers	40	Bills	21	42
+Packers	27	49ers	17	34
+Cowboys	30	Eagles	11	22
+Colts	10	Chiefs	7	14
+Cowboys	38	Packers	27	54
+Steelers	20	Colts	16	32
+Cowboys	27	Steelers	17	34

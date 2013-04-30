@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Dolphins	24	Bills	17	34
+Cardinals	20	Cowboys	7	14
+Jaguars	25	Patriots	10	20
+49ers	30	Packers	27	54
+Broncos	38	Dolphins	3	6
+Falcons	20	49ers	18	36
+Vikings	41	Cardinals	21	42
+Jets	34	Jaguars	24	48
+Falcons	30	Vikings	27	54
+Broncos	23	Jets	10	20
+Broncos	24	Falcons	19	38

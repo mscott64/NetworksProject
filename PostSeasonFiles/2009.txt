@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Jets	24	Bengals	14	28
+Cowboys	34	Eagles	14	28
+Ravens	33	Patriots	14	28
+Cardinals	51	Packers	45	90
+Saints	45	Cardinals	14	28
+Colts	20	Ravens	3	6
+Vikings	34	Cowboys	3	6
+Jets	17	Chargers	14	28
+Colts	30	Jets	17	34
+Saints	31	Vikings	28	56
+Saints	31	Colts	17	34

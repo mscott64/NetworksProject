@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Cardinals	30	Falcons	24	48
+Chargers	23	Colts	17	34
+Ravens	27	Dolphins	9	18
+Eagles	26	Vikings	14	28
+Ravens	13	Titans	10	20
+Cardinals	33	Panthers	13	26
+Eagles	23	Giants	11	22
+Steelers	35	Chargers	24	48
+Cardinals	32	Eagles	25	50
+Steelers	23	Ravens	14	28
+Steelers	27	Cardinals	23	46

@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Texans	31	Bengals	10	20
+Saints	45	Lions	28	56
+Giants	24	Falcons	2	4
+Broncos	29	Steelers	23	46
+49ers	36	Saints	32	64
+Patriots	45	Broncos	10	20
+Ravens	20	Texans	13	26
+Giants	37	Packers	20	40
+Patriots	23	Ravens	20	40
+Giants	20	49ers	17	34
+Giants	21	Patriots	17	34

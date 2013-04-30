@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Titans	22	Bills	16	32
+Redskins	27	Lions	13	26
+Vikings	27	Cowboys	10	20
+Dolphins	20	Seahawks	17	34
+Buccaneers	14	Redskins	13	26
+Jaguars	62	Dolphins	7	14
+Rams	49	Vikings	37	74
+Titans	19	Colts	16	32
+Rams	11	Buccaneers	6	12
+Titans	33	Jaguars	14	28
+Rams	23	Titans	16	32

@@ -1,0 +1,165 @@
+Teams: 33
+Titans
+Redskins
+Bears
+Vikings
+Saints
+Chargers
+Cardinals
+Lions
+Seahawks
+Broncos
+Rams
+Dolphins
+Bills
+Colts
+Oilers
+Jets
+Ravens
+49ers
+Eagles
+Texans
+Raiders
+Chiefs
+Falcons
+Giants
+Packers
+Buccaneers
+Browns
+Panthers
+Jaguars
+Cowboys
+Bengals
+Steelers
+Patriots
+
+Matchups: 129
+Bills Oilers 76 1
+Vikings Giants 44 1
+Panthers Cowboys 27 2
+Bears Vikings 36 1
+Packers Lions 36 2
+Bills Raiders 46 1
+Broncos Jets 20 1
+Raiders Jets 34 2
+Redskins Lions 26 1
+Titans Steelers 62 1
+Steelers Colts 32 3
+Cowboys Eagles 21 2
+Jets Jaguars 48 1
+Patriots Eagles 42 1
+Steelers Patriots 12 1
+Buccaneers Redskins 26 1
+Patriots Raiders 26 1
+49ers Chargers 52 1
+Patriots Panthers 58 1
+Packers Buccaneers 14 1
+Rams Seahawks 40 1
+Cowboys Bills 30 2
+Dolphins Bills 34 1
+Chargers Dolphins 42 1
+Buccaneers 49ers 12 1
+Bills Dolphins 32 2
+Broncos Steelers 42 1
+Ravens Titans 20 1
+Colts Chargers 40 1
+Patriots Rams 34 1
+49ers Vikings 44 1
+Seahawks Panthers 28 1
+Rams Titans 32 1
+Jaguars Broncos 54 1
+Redskins Buccaneers 20 1
+Broncos Falcons 38 1
+Broncos Jaguars 34 1
+Ravens Dolphins 6 1
+Jets Chargers 34 1
+Patriots Titans 28 1
+Redskins Vikings 14 1
+Patriots Jaguars 9 2
+Panthers Giants 0 1
+Jets Colts 0 1
+Panthers Rams 46 1
+Steelers Bills 42 1
+Broncos Dolphins 6 1
+Browns Patriots 26 1
+Rams Vikings 74 1
+Steelers Bengals 34 1
+Steelers Broncos 34 1
+Packers Panthers 26 1
+Seahawks Redskins 20 1
+49ers Redskins 26 1
+Buccaneers Eagles 20 1
+Patriots Steelers 31 3
+Giants Vikings 10 2
+Eagles Lions 74 1
+Steelers Browns 42 2
+Titans Bills 32 1
+Saints Rams 56 1
+Falcons Vikings 54 1
+Vikings Packers 34 1
+Buccaneers Raiders 42 1
+Patriots Colts 17 2
+Dolphins Seahawks 34 1
+Titans Colts 32 1
+Dolphins Colts 34 1
+Raiders Titans 48 1
+Cowboys Vikings 30 1
+Patriots Dolphins 6 1
+49ers Giants 41 2
+Dolphins Chiefs 34 1
+Broncos Packers 48 1
+Rams Eagles 48 1
+Chargers Chiefs 0 1
+Raiders Dolphins 0 1
+Falcons 49ers 36 1
+Steelers Jets 34 1
+Panthers Eagles 6 1
+Packers Seahawks 54 1
+Steelers Ravens 20 1
+Ravens Giants 14 1
+Packers 49ers 28 4
+Cowboys 49ers 41 2
+Raiders Broncos 48 1
+49ers Bears 30 1
+Giants Eagles 20 1
+Broncos Patriots 26 1
+Packers Falcons 40 1
+49ers Eagles 0 1
+Ravens Raiders 6 1
+Panthers Bears 42 1
+Jaguars Bills 54 1
+Falcons Rams 34 1
+Bills Steelers 6 1
+Rams Buccaneers 12 1
+49ers Cowboys 56 1
+49ers Packers 54 1
+Buccaneers Lions 20 1
+Dolphins Chargers 0 1
+Cowboys Steelers 34 1
+Titans Ravens 34 1
+Falcons Packers 14 1
+Colts Chiefs 38 2
+Titans Jaguars 28 1
+Colts Broncos 34 2
+Ravens Broncos 6 1
+Jaguars Patriots 20 1
+Steelers Seahawks 20 1
+Cardinals Cowboys 14 1
+Packers Patriots 42 1
+Bills Chiefs 26 1
+Chargers Steelers 26 1
+Vikings Saints 32 1
+Jaguars Dolphins 14 1
+Eagles Bears 38 1
+Chiefs Steelers 48 1
+Vikings Cowboys 20 1
+Cowboys Packers 35 3
+Vikings Cardinals 42 1
+Eagles Packers 34 1
+Eagles Vikings 28 1
+Chiefs Oilers 40 1
+Eagles Falcons 16 2
+Broncos Chiefs 20 1
+Eagles Buccaneers 12 2
+Rams Packers 34 1
+Eagles Saints 40 1

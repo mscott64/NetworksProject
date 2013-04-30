@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Jaguars	30	Bills	27	54
+Cowboys	40	Vikings	15	30
+Steelers	42	Colts	14	28
+49ers	14	Eagles	0	0
+Packers	35	49ers	14	28
+Jaguars	30	Broncos	27	54
+Patriots	28	Steelers	3	6
+Panthers	26	Cowboys	17	34
+Patriots	20	Jaguars	6	12
+Packers	30	Panthers	13	26
+Packers	35	Patriots	21	42

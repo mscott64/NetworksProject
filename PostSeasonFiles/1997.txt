@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Vikings	23	Giants	22	44
+Broncos	42	Jaguars	17	34
+Patriots	17	Dolphins	3	6
+Buccaneers	20	Lions	10	20
+49ers	38	Vikings	22	44
+Steelers	7	Patriots	6	12
+Broncos	14	Chiefs	10	20
+Packers	21	Buccaneers	7	14
+Packers	23	49ers	10	20
+Broncos	24	Steelers	21	42
+Broncos	31	Packers	24	48

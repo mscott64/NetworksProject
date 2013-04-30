@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Seahawks	35	Redskins	14	28
+Jaguars	31	Steelers	29	58
+Giants	24	Buccaneers	14	28
+Chargers	17	Titans	6	12
+Packers	42	Seahawks	20	40
+Patriots	31	Jaguars	20	40
+Chargers	28	Colts	24	48
+Giants	21	Cowboys	17	34
+Patriots	21	Chargers	12	24
+Giants	23	Packers	20	40
+Giants	17	Patriots	14	28

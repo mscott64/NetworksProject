@@ -1,0 +1,12 @@
+Winner	Score	Loser	Score	Goodness
+Seahawks	41	Saints	36	72
+Jets	17	Colts	16	32
+Ravens	30	Chiefs	7	14
+Packers	21	Eagles	16	32
+Steelers	31	Ravens	24	48
+Packers	48	Falcons	21	42
+Bears	35	Seahawks	24	48
+Jets	28	Patriots	21	42
+Packers	21	Bears	14	28
+Steelers	24	Jets	19	38
+Packers	31	Steelers	25	50
